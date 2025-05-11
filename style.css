@@ -1,0 +1,64 @@
+body{
+  margin: 0; /* убираем отступы по умолчанию */
+  height: 250vh; /* устанавливаем высоту на 100% окна */
+  background-image: url('https://www.miray.ua/wp-content/uploads/2021/06/p-11-007-%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6-15.jpg');
+  background-size: cover; /* растянуть по размеру экрана */
+  background-position: center; /* выровнять по центру */
+  background-repeat: no-repeat; /* не повторять */
+}
+.fix:hover{
+  scale:1.1;
+}
+.center{
+  color: white;
+   margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center; 
+      align-items: center;     
+      color: white;
+      font-family:Arial Narrow';
+
+}
+datalist{
+  position: absolute;
+  
+}
+p{
+  margin-top: 5px;
+}
+.con{
+  text-align: center;
+  background-color: #CDA4DE;
+  padding-bottom:70px;
+  width: 550px;
+  padding-top: 30px;
+  border-radius: 10%;
+  margin-left: 50px;
+  heigth: 1000px
+ 
+  
+}
+.prom::first-letter{
+  font-size: 25px;
+  font-family: Arial Narrow;
+  color: #57317c;
+  
+}
+.prom{
+  background-color: #dbcee9;
+  
+ 
+}
+.prom:hover{
+  scale: 1.1; 
+}
+.fix2:hover{
+  scale: 1.1;
+}
+.fix2{
+  padding-top: 80px;
+}
+.asd{
+  margin-bottom: 0px;
+}
